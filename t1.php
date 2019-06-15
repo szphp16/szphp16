@@ -1,2 +1,3 @@
 <?php
-	phpinfo();
+phpinfo();
+echo '你要干嘛';
